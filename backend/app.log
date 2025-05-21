@@ -1,2 +1,37 @@
 werkzeug - WARNING -  * Debugger is active!
 werkzeug - INFO -  * Debugger PIN: 856-987-683
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 11:17:08] "GET /api/quests HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 11:17:08] "GET /api/streak HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 11:17:08] "GET /api/core-tasks/completed HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 11:17:08] "GET /api/core-tasks HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 11:17:08] "GET /api/core-tasks HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 11:17:15] "POST /api/core-tasks/completed HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 11:17:15] "GET /api/core-tasks/completed HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 11:17:28] "POST /api/ai-complete HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 11:17:46] "GET /api/streak-advice HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:05] "GET /api/streak HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:05] "GET /api/quests HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:05] "GET /api/core-tasks/completed HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:05] "GET /api/core-tasks HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:05] "GET /api/core-tasks HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:05] "GET /api/core-tasks/completed HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:09] "GET /api/streak HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:09] "GET /api/quests HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:09] "GET /api/core-tasks HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:09] "GET /api/core-tasks/completed HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:09] "GET /api/core-tasks/completed HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:09] "GET /api/core-tasks HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:53] "POST /api/core-tasks HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:53] "GET /api/core-tasks HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:30:58] "POST /api/core-tasks/completed HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:31:03] "POST /api/ai-complete HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:31:05] "GET /api/ai-quest HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:31:11] "POST /api/ai-complete HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:31:18] "GET /api/streak-advice HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:31:23] "GET /api/streak-advice HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:33:31] "GET /api/quests HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:33:31] "GET /api/streak HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:33:31] "GET /api/core-tasks/completed HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:33:31] "GET /api/core-tasks HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:33:31] "GET /api/core-tasks HTTP/1.1" 200 -
+werkzeug - INFO - 192.168.1.191 - - [21/May/2025 14:33:31] "GET /api/core-tasks/completed HTTP/1.1" 200 -
