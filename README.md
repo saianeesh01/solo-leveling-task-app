@@ -9,7 +9,10 @@ This is a full-stack, Solo Leveling–inspired productivity app where users comp
 Built with **React Native (Expo)** for the mobile frontend and **Flask** for the backend, with **LangChain + Ollama** handling AI quest generation.
 
 ---
+## 📸 App Preview
 
+<img src="assets/screenshot.jpg" alt="Solo Leveling Task App Screenshot" width="400"/>
+---
 ### ✨ Features
 
 * ✅ **Core Tasks** — Set tasks like “Workout” or “Study” to do daily
